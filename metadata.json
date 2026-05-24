@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Intangibles",
+  "description": "The official community and memory book app for PM SHRI JNV KOPPAL Batch 2021-26 (Intangibles). Check student details, search directory, share custom batch memories, and connect via Instagram \u0026 WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
